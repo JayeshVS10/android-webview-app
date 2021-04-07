@@ -1,0 +1,2 @@
+androidnative/app/in/webview/BuildConfig.java
+ androidnative.app.in.webview.BuildConfig

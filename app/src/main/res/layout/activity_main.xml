@@ -55,17 +55,6 @@
                 android:layout_centerHorizontal="true"
                 android:layout_marginBottom="5dp"
                 android:orientation="horizontal">
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="FROM THE WOMB OF "
-                    android:textColor="@color/colorStore"/>
-
-                <TextView
-                    android:layout_width="wrap_content"
-                    android:layout_height="wrap_content"
-                    android:text="NATURE"
-                    android:textColor="@color/colorGrano" />
 
                 <ImageView
                     android:layout_width="wrap_content"

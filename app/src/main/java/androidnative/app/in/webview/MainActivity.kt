@@ -38,7 +38,7 @@ class MainActivity : Activity() {
     private lateinit var mContext: Context
     internal var mLoaded = false
 
-    internal var URL = "https://www.websterdevelopers.com/demostore1/index.php?route=common/home"
+    internal var URL = "https://www.websterdevelopers.com"
 
 
     private var mCameraPhotoPath: String? = null
